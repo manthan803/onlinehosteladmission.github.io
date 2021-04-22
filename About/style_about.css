@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 2px;
+    font-family: "Open Sans",sans-serif;
+    box-sizing: border-box;
+}
+
+#image{
+    background-image:url('hostel1.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:500px;
+    border:2px solid brown;
+
+}
+
+div{
+    background-image:url('simple1.jpg')
+}
+
+
+.head1{
+    text-align:center;
+    margin:15px
+    
+}
+
+.head2{
+    text-align:center;
+    margin:15px;
+    
+}
+
+.head3{
+    text-align:center;
+    margin:15px;
+    
+}
+
+#about1{
+    border:2px solid blue;
+}
+
+#about2{
+    border:2px solid blue;
+    padding:5px;
+}
+
+#about3{
+    border:2px solid blue;
+    padding:5px;    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
